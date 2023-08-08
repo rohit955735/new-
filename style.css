@@ -1,0 +1,16 @@
+body{
+    color: yellow;
+    background:red;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#cam{
+    border: 2px ridge yellow;
+    width: 350px;
+    height: 350px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+   color: yellow;
+}
